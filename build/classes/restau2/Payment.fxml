@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane id="AnchorPane" prefHeight="656.0" prefWidth="554.0" xmlns="http://javafx.com/javafx/9.0.4" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Button layoutX="95.0" layoutY="247.0" mnemonicParsing="false" opacity="0.0" prefHeight="179.0" prefWidth="247.0" text="Button" />
+      <ImageView fitHeight="595.0" fitWidth="591.0" layoutX="1.0" layoutY="-1.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@images/download%20copy.png" />
+         </image>
+      </ImageView>
+      <Button layoutX="426.0" layoutY="258.0" mnemonicParsing="false" opacity="0.0" prefHeight="165.0" prefWidth="217.0" text="Button" />
+      <Button layoutX="33.0" layoutY="523.0" mnemonicParsing="false" opacity="0.0" prefHeight="133.0" prefWidth="190.0" text="Button" />
+      <ImageView fitHeight="603.0" fitWidth="690.0" layoutX="120.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@images/download%20copy.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="61.0" fitWidth="177.0" layoutX="33.0" layoutY="545.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@images/logo%20copy%2022.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="192.0" fitWidth="567.0" layoutX="101.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@images/logo%20copy%2018.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="179.0" fitWidth="511.0" layoutX="119.0" layoutY="140.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@images/logo%20copy%2019.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="123.0" layoutY="274.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@images/logo%20copy%2020.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="133.0" fitWidth="268.0" layoutX="401.0" layoutY="276.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@images/logo%20copy%2021.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>

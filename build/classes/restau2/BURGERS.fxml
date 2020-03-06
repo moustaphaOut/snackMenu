@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Accordion?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="739.0" prefWidth="783.0" xmlns="http://javafx.com/javafx/9.0.4" xmlns:fx="http://javafx.com/fxml/1" fx:controller="restau2.FXMLController">
+   <children>
+      <Accordion />
+      <AnchorPane layoutX="-15.0" layoutY="-5.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="749.0" prefWidth="810.0" AnchorPane.bottomAnchor="11.0" AnchorPane.leftAnchor="-15.0" AnchorPane.rightAnchor="6.0" AnchorPane.topAnchor="-5.0">
+         <children>
+            <ImageView fitHeight="810.0" fitWidth="817.0" layoutX="12.0" layoutY="-44.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@images/download%20copy.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="386.0" fitWidth="316.0" layoutX="12.0" layoutY="250.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@logo%20copy%2028.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="528.0" fitWidth="483.0" layoutX="17.0" layoutY="19.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@images/logo%20copy%209.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="105.0" fitWidth="132.0" layoutX="251.0" layoutY="348.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@images/3263577-hamburger-with-fish-cutlet-and-vegetables-isolated-on-white-background.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="105.0" fitWidth="132.0" layoutX="53.0" layoutY="500.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@images/healthy-vegan-burger-raw-vegetables-white-background-59562338.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="105.0" fitWidth="132.0" layoutX="53.0" layoutY="355.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@images/download-6%20copy%204.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="101.0" fitWidth="121.0" layoutX="61.0" layoutY="210.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@images/download-6%20copy%205.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="105.0" fitWidth="132.0" layoutX="480.0" layoutY="495.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@images/closeup-home-made-burgers-white-background-beef-57506806.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="105.0" fitWidth="132.0" layoutX="466.0" layoutY="217.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@images/45570624-big-hamburger-on-white-background.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="105.0" fitWidth="110.0" layoutX="285.0" layoutY="495.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@images/9074409-gigantic-hamburger-on-white-background-.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="105.0" fitWidth="132.0" layoutX="665.0" layoutY="208.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@images/Photo512rani2.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="105.0" fitWidth="132.0" layoutX="466.0" layoutY="364.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@images/download-7%20copy%202.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="616.0" layoutY="362.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@images/download-6%20copy.jpg" />
+               </image>
+            </ImageView>
+            <Label layoutX="61.0" layoutY="312.0" text="The homemade">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+            <Label layoutX="272.0" layoutY="312.0" text="Two layered">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+            <Label layoutX="461.0" layoutY="312.0" text="Double Whooper">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+            <Label layoutX="668.0" layoutY="314.0" text="Fishy sliders">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+            <Label layoutX="65.0" layoutY="450.0" text="Black burger">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+            <Label layoutX="250.0" layoutY="450.0" text="Chicken whooper">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+            <Label layoutX="480.0" layoutY="450.0" prefHeight="17.0" prefWidth="167.0" text="Hungry pork">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+            <Label layoutX="663.0" layoutY="450.0" prefHeight="17.0" prefWidth="116.0" text="Trio slider">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+            <Label layoutX="65.0" layoutY="603.0" prefHeight="23.0" prefWidth="155.0" text="Vegan Burger">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+            <Label layoutX="269.0" layoutY="603.0" prefHeight="17.0" prefWidth="167.0" text="The Skyscraper">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+            <Label layoutX="468.0" layoutY="603.0" prefHeight="17.0" prefWidth="192.0" text="Double beef slider">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+            <Button layoutX="39.0" layoutY="238.0" mnemonicParsing="false" text="39Dh" />
+            <Button layoutX="440.0" layoutY="238.0" mnemonicParsing="false" text="59Dh" />
+            <Button layoutX="635.0" layoutY="238.0" mnemonicParsing="false" text="49dh" />
+            <Button layoutX="38.0" layoutY="376.0" mnemonicParsing="false" text="69DH" />
+            <Button layoutX="231.0" layoutY="376.0" mnemonicParsing="false" text="43DH" />
+            <Button layoutX="441.0" layoutY="376.0" mnemonicParsing="false" text="55DH" />
+            <Button layoutX="589.0" layoutY="376.0" mnemonicParsing="false" text="66DH" />
+            <Button layoutX="38.0" layoutY="508.0" mnemonicParsing="false" text="39DH" />
+            <Button layoutX="246.0" layoutY="508.0" mnemonicParsing="false" text="79DH" />
+            <Button layoutX="453.0" layoutY="521.0" mnemonicParsing="false" text="50DH" />
+            <ImageView fitHeight="54.0" fitWidth="235.0" layoutX="569.0" layoutY="693.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@images/logo%20copy%2011.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="54.0" fitWidth="235.0" layoutX="38.0" layoutY="693.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@images/logo%20copy%2012.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="272.0" fitWidth="463.0" layoutX="362.0" layoutY="-62.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@images/logo%20copy%2013.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="78.0" fitWidth="181.0" layoutX="405.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@images/logo%20copy%2014.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="71.0" fitWidth="167.0" layoutX="633.0" layoutY="16.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@images/logo%20copy%2015.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="71.0" fitWidth="167.0" layoutX="650.0" layoutY="100.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@images/logo%20copy%2017.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="71.0" fitWidth="181.0" layoutX="424.0" layoutY="100.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@images/logo%20copy%2016.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="105.0" fitWidth="112.0" layoutX="268.0" layoutY="208.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@images/29831409-fresh-big-burger-on-a-white-background.jpg" />
+               </image>
+            </ImageView>
+            <Button layoutX="242.0" layoutY="247.0" mnemonicParsing="false" text="49Dh" />
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>
